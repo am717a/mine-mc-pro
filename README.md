@@ -1,1 +1,1 @@
-# mine-mc-pro
+# MineMc-Pro Docs
